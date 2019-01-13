@@ -1,0 +1,22 @@
+{
+  "name": "1-natours",
+  "version": "1.0.0",
+  "description": "\"# 1-Natours\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lx-kish/1-Natours.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lx-kish/1-Natours/issues"
+  },
+  "homepage": "https://github.com/lx-kish/1-Natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
